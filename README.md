@@ -1,4 +1,4 @@
-# Sensat Full Stack Viz Take Home Test
+# Sensat Grad Viz Take Home Test
 
 ![Example image](images/app.jpeg)
 
