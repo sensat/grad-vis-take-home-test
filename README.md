@@ -41,7 +41,7 @@ At this point you should now be able to visit `http://localhost:4200/` and see t
 ## Instructions
 
 1. Implement the compulsory extension.
-2. Pick any one of the optional extensions that you feel most comfortable with, and implement it.
+2. Pick any one of the further extensions that you feel most comfortable with, and implement it.
 3. You are free to change the existing code as much or as little as you see fit.
 4. If you feel an extension is unclear, you are free to make a choice as to how to resolve that uncertainty.
 5. Document your thoughts in this README.
@@ -60,7 +60,7 @@ The app should allow the user to switch to "Blueprint" mode when they press the 
 
 "Blueprint" mode helps engineers assess a model's relative scale and layout without the distortion of perspective projection. This mode should bring the user to a centred orthographic top-down view of the loaded model and only allow panning. Pressing the "B" key again should return the user to the view they were previously on.
 
-## Optional extensions (no particular order)
+## Further extensions (no particular order)
 
 ### Option 1
 
